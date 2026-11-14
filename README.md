@@ -59,6 +59,8 @@ Las aplicaciones del curso de bases de datos arrancan con `npm start`. Las dos d
 
 Para `05_Proyectos/WeatherApp`, consigue tu propia _API key_ gratuita en [_OpenWeather_](https://openweathermap.org/) y ponla en `app.js`.
 
+Las dependencias de cada proyecto son las de cuando se grabó el curso, para que el código coincida con el de los videos. Si usas alguno como base de un proyecto real, actualízalas antes con `npm outdated` y `npm update`, o con `npm audit fix`.
+
 ## Recursos teóricos
 
 - [Mis notas sobre _Node.js_](https://jonmircha.com/nodejs)
